@@ -14,6 +14,6 @@ $html = '
 ';
 
 $mpdf->WriteHTML($html);
-$mpdf->Output();
+$mpdf->Output()
 
 ?>
